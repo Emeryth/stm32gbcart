@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name GameBoy)(type Legacy)(uri /home/andrju/Projects/kicad-libs/gekkio-kicad-libs/Gekkio_GameBoy.lib)(options "")(descr ""))
+  (lib (name gbcart-rescue)(type Legacy)(uri ${KIPRJMOD}/gbcart-rescue.lib)(options "")(descr ""))
+)
